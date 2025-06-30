@@ -1,4 +1,7 @@
 # 🌍 Chennai LULC Change Detection Dashboard
+![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen?logo=streamlit)
+![Status](https://img.shields.io/badge/Status-Deployed-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 This is an interactive geospatial dashboard that visualizes **Land Use and Land Cover (LULC)** changes in **Chennai, India** between **2018 and 2025**. It uses NDVI (vegetation) and NDBI (built-up) indices derived from Sentinel-2 satellite imagery.
 
