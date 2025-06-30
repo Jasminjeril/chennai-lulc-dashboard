@@ -5,7 +5,7 @@
 
 This is an interactive geospatial dashboard that visualizes **Land Use and Land Cover (LULC)** changes in **Chennai, India** between **2018 and 2025**. It uses NDVI (vegetation) and NDBI (built-up) indices derived from Sentinel-2 satellite imagery.
 
-Built with ❤️ using **Google Earth Engine**, **QGIS**, and **Streamlit**.
+Built using **Google Earth Engine**, **QGIS**, and **Streamlit**.
 
 ---
 
